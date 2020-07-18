@@ -1,6 +1,6 @@
 # cleantweets
 
-!!Uupdate 7-18-2020-- updated deperciated alias for SafeConfigParser--> Config Parser
+# !!Update 7-18-2020-- updated deperciated alias for SafeConfigParser--> Config Parser
 
 A command line script to delete and/or unlike tweets (and export them prior to that). Tweets can be "protected" from deletion by their IDs, if they contains keywords, by their age, or (for own tweets) by the number of retweets and likes. 
 
